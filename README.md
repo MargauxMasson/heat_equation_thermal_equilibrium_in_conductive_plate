@@ -1,0 +1,1 @@
+# heat_equation_thermal_equilibrium_in_conductive_plate
